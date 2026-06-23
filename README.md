@@ -8,7 +8,7 @@
 
 Tools ran Comment 
 
-git clone https://github.com/r00thex/Root-Termux-auto-setup/
+git clone https://github.com/r00thex/Root-Termux-auto-setup.git
 
 chmod +x root.sh
 
