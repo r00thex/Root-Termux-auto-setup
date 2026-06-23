@@ -6,13 +6,13 @@
 - 🧪 Real working auto banner & login message setup
 
 
-Fast you share this file 🗄️  termux 
-
 Tools ran Comment 
 
-chmod +x Act1.sh
+git clone https://github.com/r00thex/Root-Termux-auto-setup/
 
-bash Act1.sh
+chmod +x root.sh
+
+bash root.sh
 
 ## 🔧 Usage
 
