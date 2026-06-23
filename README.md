@@ -10,9 +10,15 @@ Tools ran Comment
 
 git clone https://github.com/r00thex/Root-Termux-auto-setup.git
 
-chmod +x root.sh
+ls
 
-bash root.sh
+cd Root-Termux-auto-setup
+
+ls
+
+chmod +x roottr.sh
+
+bash roottr.sh
 
 ## 🔧 Usage
 
